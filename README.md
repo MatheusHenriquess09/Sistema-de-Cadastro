@@ -7,3 +7,6 @@ O programa permite registrar, visualizar, atualizar e deletar alunos utilizando 
 
 - Python
 - Banco de dados local SQLite
+
+# 📷 Tela principal
+![Preview do Projeto](preview.png)
